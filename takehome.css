@@ -1,0 +1,32 @@
+body {
+  background-color: brown;
+}
+
+
+
+h2 {
+  border: 1px solid gold;
+  outline-style: inset;
+  outline-color: goldenrod;
+  outline-width: 7px;
+  font-family: Papyrus;
+  font-size: 30px;
+  color: gainsboro;
+  text-align: center;
+
+}
+
+
+p {
+  font-family: serif;
+  font-size: 20px;
+  color: gainsboro;
+  text-align: center;
+  border-style: ;
+  border-color: ;
+}
+
+.favorite
+{
+  
+}
